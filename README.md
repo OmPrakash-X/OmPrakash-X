@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://res.cloudinary.com/dkew2ommk/image/upload/v1763226144/codinggif_bfjbqc.gif" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=omprakash-x&label=Profile%20views&color=blueviolet&style=flat-square" alt="omprakash-x" /> 
-</p>
+
 
 
 
