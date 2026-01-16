@@ -16,7 +16,7 @@
 - 👯 I'm looking to collaborate on [Open-source MERN or Next.js projects](https://github.com/OmPrakash-X)
 - 👨‍💻 All of my projects are available at [https://omprakashx.dev](https://omprakashx.dev)
 - 📫 How to reach me **omnayak984@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mx8cmnMyFR0z6HGwVvojxLGg24Dl-9j8/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18HzQPrHzdnS024kKz8GicLIaoBtemeiR/view)
 - ⚡ Fun fact **I enjoy creating things that feel simple, smooth, and a little bit magical**
 
 <h3 align="left">Connect with me:</h3>
